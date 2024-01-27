@@ -32,6 +32,6 @@ For the book data, use the provided `book_data.json` file. You are free to handl
 5. **Functionality:** Ensure that basic features are implemented correctly.
 
 ### Submission:
-Your should submit a compressed folder containing the entire Flutter project with clear instructions on how to run the app locally. Additionally, provide a brief README file explaining your design decisions and any challenges faced during the development.
+You should submit a compressed folder containing the entire Flutter project with clear instructions on how to run the app locally. Additionally, provide a brief README file explaining your design decisions and any challenges faced during the development.
 
 The UI/UX is intentially open-ended where we want to see your UI designs and implementation. **Please do not spend more than 3-4 hours on this app**.
