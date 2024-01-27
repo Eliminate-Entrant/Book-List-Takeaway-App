@@ -10,10 +10,12 @@ Create a basic Flutter app for managing a collection of books. The app should ha
 - Each book item should be tappable, leading to a placeholder Book Details page.
 - Implement a feature to delete a book by swiping or tapping on a delete icon next to each book.
 
-#### Page 2: Add Book Page
+#### Page 2: Add Book Title
 - Implement a form for adding a new book with fields for title and author.
 - Add basic validation to ensure that the title and author fields are not empty.
 - Include a button to submit the new book and return to the Home page.
+
+For the book data, use the provided `book_data.json` file. You are free to handle it however. When adding a new Book Title, the json data should update.
 
 #### Requirements:
 - Use Flutter and Dart for development.
